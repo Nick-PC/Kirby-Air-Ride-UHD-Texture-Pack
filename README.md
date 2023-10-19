@@ -4,7 +4,6 @@
 This pack contains retextures averaging 8x original size for the entire city area of City Trial mode. Some of the pack is a repackaged combination of excellent contributions from members of the Dolphin Forum community. Go to the [wiki](https://github.com/quinton-ashley/Kirby_Air_Ride_UHD_Texture_Pack/wiki/Screenshots) to see screenshots!
 
 ### Contributions
-https://github.com/Nick-PC/Kirby-Air-Ride-UHD-Texture-Pack
 NickJamNG (Working to fill in gaps where textures were missed and overhaul some older textures to increase accuracy to the source material)<br>
 kilerbomb (Quinton renamed most files so they can work with the new Dolphin texture format)<br>
 Guitar_Bro (Quinton used his original SVG files to export larger png textures for parts of the city and also included the legendary pieces HUD textures and menu textures unaltered)<br>
