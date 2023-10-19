@@ -20,7 +20,7 @@ Use the widescreen codes found on the [wiki](https://wiki.dolphin-emu.org/index.
 ### Donate!
 
 Nick's Paypal:
-[https://www.paypal.me/qashto/5](https://www.paypal.me/NChrissomallis)
+[https://www.paypal.me/NChrissomallis](https://www.paypal.me/NChrissomallis)
 
 Quinton's Patreon:
 [https://www.patreon.com/qashto](https://www.patreon.com/qashto)
